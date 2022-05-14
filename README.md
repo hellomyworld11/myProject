@@ -1,5 +1,5 @@
 # myProject
-  mylittleProject
+  mylittleProject  LOG 
 
 ## myFileSend   
   + Qt/C++/TCP
